@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d767f6d-eb77-4777-9c09-0a8391667857" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sample_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="ERB File" />
+        <option value="Ruby File" />
       </list>
     </option>
   </component>
@@ -142,7 +149,17 @@
       <workItem from="1653131651276" duration="13553000" />
       <workItem from="1653308114282" duration="1802000" />
       <workItem from="1653462665030" duration="647000" />
-      <workItem from="1653490185049" duration="2313000" />
+      <workItem from="1653490185049" duration="7401000" />
+      <workItem from="1653500259049" duration="307000" />
+      <workItem from="1653500792183" duration="749000" />
+      <workItem from="1653501626937" duration="1089000" />
+      <workItem from="1653502855480" duration="54000" />
+      <workItem from="1653558411010" duration="1872000" />
+      <workItem from="1653560309682" duration="1429000" />
+      <workItem from="1653992111722" duration="595000" />
+      <workItem from="1654170865713" duration="8845000" />
+      <workItem from="1654248131543" duration="727000" />
+      <workItem from="1654508028392" duration="7322000" />
     </task>
     <servers />
   </component>
