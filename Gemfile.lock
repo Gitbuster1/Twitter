@@ -318,7 +318,7 @@ DEPENDENCIES
   wdm (>= 0.1.0)
   web-console
   webdrivers
-  webpacker
+  webpacker (>= 4.0.x)
 
 RUBY VERSION
    ruby 3.1.1p18
