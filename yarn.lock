@@ -1362,7 +1362,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rails/webpacker@npm:next":
+"@rails/webpacker@next":
   version: 6.0.0-rc.6
   resolution: "@rails/webpacker@npm:6.0.0-rc.6"
   dependencies:
