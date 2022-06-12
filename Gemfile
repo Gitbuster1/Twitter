@@ -10,6 +10,8 @@ gem 'webpacker'
 
 gem "bootstrap-sass"
 
+gem 'bcrypt', '~> 3.1', '>= 3.1.18'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
