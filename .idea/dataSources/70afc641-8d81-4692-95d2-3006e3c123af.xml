@@ -1387,7 +1387,15 @@
       <NotNull>1</NotNull>
       <Position>5</Position>
     </column>
-    <key id="499" parent="477">
+    <column id="499" parent="477" name="password_digest">
+      <DataType>varchar|0s</DataType>
+      <Position>6</Position>
+    </column>
+    <index id="500" parent="477" name="index_users_on_email">
+      <ColNames>email</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="501" parent="477">
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
