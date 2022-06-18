@@ -41,7 +41,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v7.0.3, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.8.0, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ansi (v1.5.0, ruby-3.1.1-p18) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v10.2.4.0, ruby-3.1.1-p18) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v10.4.7.0, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.18, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.12.0, ruby-3.1.1-p18) [gem]" level="application" />
@@ -56,7 +56,7 @@
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="digest (v3.1.0, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.10.0, ruby-3.1.1-p18) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="execjs (v2.7.0, ruby-3.1.1-p18) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="execjs (v2.8.1, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.15.5, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="formatador (v1.1.0, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v1.0.0, ruby-3.1.1-p18) [gem]" level="application" />
@@ -76,7 +76,7 @@
     <orderEntry type="library" scope="PROVIDED" name="matrix (v0.4.2, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="method_source (v1.0.0, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mini_mime (v1.1.2, ruby-3.1.1-p18) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.15.0, ruby-3.1.1-p18) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.16.0, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest-reporters (v1.5.0, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="msgpack (v1.5.2, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nenv (v0.3.0, ruby-3.1.1-p18) [gem]" level="application" />
@@ -98,7 +98,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rails (v7.0.3, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-controller-testing (v1.0.5, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.0.3, ruby-3.1.1-p18) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.4.2, ruby-3.1.1-p18) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.4.3, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v7.0.3, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.11.1, ruby-3.1.1-p18) [gem]" level="application" />
@@ -116,7 +116,7 @@
     <orderEntry type="library" scope="PROVIDED" name="spring-watcher-listen (v2.0.1, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v4.0.3, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.4.2, ruby-3.1.1-p18) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.4.2, ruby-3.1.1-p18) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.4.4, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="stimulus-rails (v1.0.4, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="strscan (v3.0.3, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v1.2.1, ruby-3.1.1-p18) [gem]" level="application" />
@@ -135,7 +135,7 @@
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.7.5, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, ruby-3.1.1-p18) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, ruby-3.1.1-p18) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.5.4, ruby-3.1.1-p18) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.6.0, ruby-3.1.1-p18) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
