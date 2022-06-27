@@ -12,6 +12,12 @@ gem "bootstrap-sass"
 
 gem 'bcrypt', '~> 3.1', '>= 3.1.18'
 
+gem 'faker', '~> 2.21'
+
+gem 'will_paginate', '~> 3.3', '>= 3.3.1'
+
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.2'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
