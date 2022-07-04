@@ -76,7 +76,7 @@ Rails.application.configure do
     :authentication => :plain,
     :user_name => ENV['MAILGUN_SMTP_LOGIN'],
     :password => ENV['MAILGUN_SMTP_PASSWORD'],
-    :domain => 'sample-app-yasaka.heroku.com',
+    :domain => 'sample-app-yasaka.herokuapp.com',
     :enable_starttls_auto => true
   }
 
