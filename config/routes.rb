@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-
   root "static_pages#home"
   get '/signup', to: "users#new"
   get '/help', to: "static_pages#help"
@@ -11,4 +10,5 @@ Rails.application.routes.draw do
   get '/update', to: "users#edit"
   resources :users
   resources :account_activations, only: [:edit]
+  resources :password_resets, only: [:new, :create, :edit, :update]
 end
