@@ -1,0 +1,48 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+pizza:
+  content: "I love pizza!"
+  created_at: <%= 10.minutes.ago %>
+  user: tibi
+
+song:
+  content: "Check out this new song I found: https://youtu.be/7jvjf1De5aU"
+  created_at: <%= 2.years.ago %>
+  user: tibi
+
+meme:
+  content: "Runescape robbers LMAO: https://www.youtube.com/shorts/H-9cW8Cm-jo"
+  created_at: <%= 3.hours.ago %>
+  user: tibi
+
+most_recent:
+  content: "This is just a test"
+  created_at: <%= Time.zone.now %>
+  user: tibi
+
+<% 30.times do |n| %>
+micropost_<%= n %>:
+  content: <%= Faker::Lorem.sentence(word_count: 5) %>
+  created_at: <%= 42.days.ago %>
+  user: tibi
+<% end %>
+
+ants:
+  content: "Oh, is that what you want? Because that's how you get ants!"
+  created_at: <%= 2.years.ago %>
+  user: archer
+
+zone:
+  content: "Danger zone!"
+  created_at: <%= 3.days.ago %>
+  user: archer
+
+tone:
+  content: "I'm sorry. Your words made sense, but your sarcastic tone did not."
+  created_at: <%= 10.minutes.ago %>
+  user: archer
+
+van:
+  content: "Dude, this van's, like, rolling probable cause."
+  created_at: <%= 4.hours.ago %>
+  user: archer

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="dataSourceStorageLocal" created-in="RM-221.5921.22">
+  <component name="dataSourceStorageLocal" created-in="RM-222.3345.111">
     <data-source name="Rails sample_app: test" uuid="70afc641-8d81-4692-95d2-3006e3c123af">
       <database-info product="SQLite" version="3.36.0" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.36.0.3" dbms="SQLITE" exact-version="3.36.0" exact-driver-version="3.36">
         <identifier-quote-string>&quot;</identifier-quote-string>
@@ -24,6 +24,11 @@
           <node kind="schema" qname="@" />
         </introspection-scope>
       </schema-mapping>
+    </data-source>
+    <data-source name="Rails sample_app: production" uuid="5845afe8-605e-4edf-964d-fcf1003ce4dd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>sample_app</user-name>
+      <schema-mapping />
     </data-source>
   </component>
 </project>
