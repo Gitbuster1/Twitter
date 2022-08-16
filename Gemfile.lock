@@ -339,7 +339,6 @@ DEPENDENCIES
   capybara
   debug
   faker (~> 2.21)
-  ffi (~> 1.15, >= 1.15.5)
   guard
   guard-minitest
   image_processing (~> 1.12, >= 1.12.2)
@@ -353,7 +352,6 @@ DEPENDENCIES
   puma (~> 5.0)
   rails (~> 7.0.3)
   rails-controller-testing
-  ruby-vips (~> 2.1, >= 2.1.4)
   sassc-rails
   selenium-webdriver
   spring
