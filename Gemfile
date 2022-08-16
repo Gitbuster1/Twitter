@@ -61,9 +61,9 @@ gem "turbolinks"
 gem 'active_storage_validations', '~> 0.9.8'
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
-gem 'image_processing', '1.9.3'
+gem 'image_processing', '~> 1.12', '>= 1.12.2'
 
-gem 'mini_magick', '4.9.5'
+gem 'mini_magick', '~> 4.11'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
@@ -93,7 +93,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
   gem "rails-controller-testing"
-  gem "minitest"
+  gem 'minitest', '~> 5.16', '>= 5.16.2'
   gem "minitest-reporters"
   gem "guard"
   gem "guard-minitest"
