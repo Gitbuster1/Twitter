@@ -65,9 +65,9 @@ gem 'image_processing', '~> 1.12', '>= 1.12.2'
 
 gem 'mini_magick', '~> 4.11'
 
-gem 'ffi', '~> 1.15', '>= 1.15.5'
+#gem 'ffi', '~> 1.15', '>= 1.15.5'
 
-gem 'ruby-vips', '~> 2.1', '>= 2.1.4'
+#gem 'ruby-vips', '~> 2.1', '>= 2.1.4'
 
 
 group :development, :test do
