@@ -25,7 +25,7 @@ class MicropostsInterfaceTest < ActionDispatch::IntegrationTest
     micropost = assigns(:micropost)
     assert micropost.image.attached?
     assert_redirected_to root_url
-    follow_redirect!
+    get user_path(@user)
     assert_match content, response.body
     assert_select "button", text: "Delete"
     first_micropost = @user.microposts.paginate(page: 1).first

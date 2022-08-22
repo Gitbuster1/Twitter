@@ -2,7 +2,11 @@
   <%= link_to gravatar_for(micropost.user, size: 50), micropost.user %>
   <span class="user"><%= link_to micropost.user.name, micropost.user %></span>
   <span class="content">
-    <%= micropost.content %>
+    <% if agent_mobile? %>
+      <%= word_wrap(micropost.content, line_width: 30).to_s.gsub(/\n/, '<br/>').html_safe %>
+    <% else %>
+      <%= word_wrap(micropost.content, line_width: 90).to_s.gsub(/\n/, '<br/>').html_safe %>
+    <% end %>
     <%= image_tag micropost.display_image if micropost.image.attached? %>
   </span>
   <span class="timestamp">

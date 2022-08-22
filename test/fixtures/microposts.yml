@@ -26,6 +26,13 @@ micropost_<%= n %>:
   created_at: <%= 42.days.ago %>
   user: tibi
 <% end %>
+  
+<% 35.times do |n| %>
+lana_<%= n %>:
+  content: <%= Faker::Lorem.sentence(word_count: 5) %>
+  created_at: <%= 32.days.ago %>
+  user: lana
+<% end %>
 
 ants:
   content: "Oh, is that what you want? Because that's how you get ants!"

@@ -7,4 +7,8 @@ module ApplicationHelper
       page_title + " | " + base_title
     end
   end
+
+  def agent_mobile?
+    request.user_agent =~ /Mobile|webOS/
+  end
 end

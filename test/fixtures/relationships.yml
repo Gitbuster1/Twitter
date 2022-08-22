@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+one:
+  follower: tibi
+  followed: lana
+
+two:
+  follower: tibi
+  followed: malory
+
+three:
+  follower: lana
+  followed: tibi
+
+four:
+  follower: archer
+  followed: tibi
